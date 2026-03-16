@@ -1,0 +1,196 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#F5F7FA"/>
+  
+  <!-- Coffee Shop Background -->
+  <rect x="0" y="600" width="1200" height="200" fill="#4A5568"/>
+  
+  <!-- Window -->
+  <rect x="800" y="100" width="350" height="400" fill="#E2E8F0" stroke="#CBD5E0" stroke-width="8"/>
+  <rect x="810" y="110" width="330" height="380" fill="#87CEEB"/>
+  
+  <!-- Campus buildings in window -->
+  <rect x="850" y="300" width="40" height="120" fill="#2D3748"/>
+  <rect x="900" y="250" width="50" height="170" fill="#4A5568"/>
+  <rect x="960" y="280" width="45" height="140" fill="#2D3748"/>
+  <rect x="1020" y="200" width="60" height="220" fill="#4A5568"/>
+  
+  <!-- Table -->
+  <ellipse cx="400" cy="580" rx="300" ry="80" fill="#8B4513"/>
+  <rect x="350" y="580" width="100" height="150" fill="#654321"/>
+  <rect x="450" y="580" width="100" height="150" fill="#654321"/>
+  
+  <!-- Coffee cups -->
+  <ellipse cx="200" cy="570" rx="25" ry="15" fill="#FFFFFF"/>
+  <ellipse cx="200" cy="565" rx="25" ry="15" fill="#8B4513"/>
+  <rect x="195" y="570" width="10" height="8" fill="#8B4513"/>
+  
+  <ellipse cx="600" cy="570" rx="25" ry="15" fill="#FFFFFF"/>
+  <ellipse cx="600" cy="565" rx="25" ry="15" fill="#8B4513"/>
+  <rect x="605" y="570" width="10" height="8" fill="#8B4513"/>
+  
+  <!-- Books on table -->
+  <rect x="250" y="550" width="60" height="8" fill="#FF6B6B"/>
+  <rect x="255" y="542" width="60" height="8" fill="#4ECDC4"/>
+  <rect x="260" y="534" width="60" height="8" fill="#45B7D1"/>
+  
+  <!-- Alex Character (Asian-American, coding) -->
+  <g transform="translate(150,300)">
+    <!-- Body -->
+    <ellipse cx="0" cy="100" rx="60" ry="80" fill="#6C7B7F"/>
+    
+    <!-- Hoodie -->
+    <ellipse cx="0" cy="80" rx="70" ry="90" fill="#4A90E2"/>
+    <circle cx="0" cy="20" r="45" fill="#4A90E2"/>
+    
+    <!-- Head -->
+    <circle cx="0" cy="0" r="40" fill="#F4C2A1"/>
+    
+    <!-- Hair -->
+    <path d="M -35,-30 Q 0,-50 35,-30 Q 35,-10 25,0 L -25,0 Q -35,-10 -35,-30" fill="#2C3E50"/>
+    
+    <!-- Eyes -->
+    <ellipse cx="-12" cy="-5" rx="8" ry="6" fill="#FFFFFF"/>
+    <ellipse cx="12" cy="-5" rx="8" ry="6" fill="#FFFFFF"/>
+    <circle cx="-12" cy="-5" r="4" fill="#2C3E50"/>
+    <circle cx="12" cy="-5" r="4" fill="#2C3E50"/>
+    
+    <!-- Nose -->
+    <ellipse cx="0" cy="5" rx="2" ry="3" fill="#E8B4A0"/>
+    
+    <!-- Mouth (concentrated expression) -->
+    <path d="M -8,15 Q 0,12 8,15" stroke="#2C3E50" stroke-width="2" fill="none"/>
+    
+    <!-- Arms -->
+    <ellipse cx="-50" cy="120" rx="20" ry="60" fill="#4A90E2"/>
+    <ellipse cx="50" cy="120" rx="20" ry="60" fill="#4A90E2"/>
+    
+    <!-- Hands -->
+    <circle cx="-40" cy="170" r="15" fill="#F4C2A1"/>
+    <circle cx="40" cy="170" r="15" fill="#F4C2A1"/>
+  </g>
+  
+  <!-- MacBook for Alex -->
+  <g transform="translate(100,450)">
+    <!-- Laptop base -->
+    <rect x="0" y="0" width="140" height="100" rx="5" fill="#C0C0C0"/>
+    
+    <!-- Screen -->
+    <rect x="10" y="-80" width="120" height="75" rx="3" fill="#2C3E50"/>
+    
+    <!-- Code on screen -->
+    <rect x="15" y="-75" width="110" height="65" fill="#0D1117"/>
+    
+    <!-- Java code lines -->
+    <rect x="20" y="-70" width="60" height="3" fill="#FF7B72"/>
+    <rect x="25" y="-65" width="80" height="3" fill="#7EE787"/>
+    <rect x="25" y="-60" width="40" height="3" fill="#79C0FF"/>
+    <rect x="20" y="-55" width="90" height="3" fill="#FFA657"/>
+    <rect x="30" y="-50" width="70" height="3" fill="#F85149"/>
+    <rect x="25" y="-45" width="50" height="3" fill="#7EE787"/>
+    
+    <!-- Keyboard -->
+    <rect x="10" y="10" width="120" height="60" fill="#FFFFFF"/>
+    <rect x="15" y="15" width="110" height="50" fill="#E5E5E5"/>
+  </g>
+  
+  <!-- Sam Character (Latina, designing) -->
+  <g transform="translate(550,250)">
+    <!-- Body -->
+    <ellipse cx="0" cy="150" rx="55" ry="75" fill="#E74C3C"/>
+    
+    <!-- Jacket -->
+    <ellipse cx="0" cy="130" rx="65" ry="85" fill="#3498DB"/>
+    
+    <!-- Head -->
+    <circle cx="0" cy="0" r="38" fill="#D2B48C"/>
+    
+    <!-- Hair -->
+    <path d="M -32,-25 Q 0,-45 32,-25 Q 30,-5 20,10 Q 0,15 -20,10 Q -30,-5 -32,-25" fill="#8B4513"/>
+    
+    <!-- Eyes -->
+    <ellipse cx="-10" cy="-2" rx="7" ry="5" fill="#FFFFFF"/>
+    <ellipse cx="10" cy="-2" rx="7" ry="5" fill="#FFFFFF"/>
+    <circle cx="-10" cy="-2" r="3" fill="#2C3E50"/>
+    <circle cx="10" cy="-2" r="3" fill="#2C3E50"/>
+    
+    <!-- Nose -->
+    <ellipse cx="0" cy="8" rx="2" ry="3" fill="#C19A6B"/>
+    
+    <!-- Smile (creative expression) -->
+    <path d="M -10,18 Q 0,25 10,18" stroke="#2C3E50" stroke-width="2" fill="none"/>
+    
+    <!-- Arms -->
+    <ellipse cx="-45" cy="170" rx="18" ry="55" fill="#3498DB"/>
+    <ellipse cx="45" cy="170" rx="18" ry="55" fill="#E74C3C"/>
+    
+    <!-- Hands -->
+    <circle cx="-35" cy="210" r="12" fill="#D2B48C"/>
+    <circle cx="40" cy="210" r="12" fill="#D2B48C"/>
+  </g>
+  
+  <!-- iPad for Sam -->
+  <g transform="translate(480,400)">
+    <!-- iPad -->
+    <rect x="0" y="0" width="100" height="140" rx="8" fill="#2C3E50"/>
+    <rect x="5" y="5" width="90" height="130" fill="#FFFFFF"/>
+    
+    <!-- Wireframes/sketches -->
+    <rect x="10" y="15" width="80" height="25" stroke="#3498DB" stroke-width="2" fill="none"/>
+    <circle cx="25" cy="27" r="8" stroke="#E74C3C" stroke-width="2" fill="none"/>
+    <rect x="40" y="20" width="40" height="15" stroke="#2ECC71" stroke-width="1" fill="none"/>
+    
+    <rect x="10" y="50" width="35" height="20" stroke="#F39C12" stroke-width="1" fill="none"/>
+    <rect x="50" y="50" width="35" height="20" stroke="#9B59B6" stroke-width="1" fill="none"/>
+    
+    <!-- UI elements -->
+    <circle cx="20" cy="85" r="5" fill="#3498DB"/>
+    <rect x="30" y="82" width="50" height="6" fill="#ECF0F1"/>
+    <circle cx="20" cy="100" r="5" fill="#E74C3C"/>
+    <rect x="30" y="97" width="40" height="6" fill="#ECF0F1"/>
+    <circle cx="20" cy="115" r="5" fill="#2ECC71"/>
+    <rect x="30" y="112" width="30" height="6" fill="#ECF0F1"/>
+  </g>
+  
+  <!-- Apple Pencil -->
+  <rect x="590" y="520" width="60" height="4" rx="2" fill="#FFFFFF"/>
+  <rect x="590" y="520" width="8" height="4" fill="#3498DB"/>
+  
+  <!-- Collaboration elements -->
+  <!-- Speech bubble from Alex -->
+  <g transform="translate(300,200)">
+    <ellipse cx="0" cy="0" rx="80" ry="40" fill="#FFFFFF" stroke="#BDC3C7" stroke-width="2"/>
+    <polygon points="-20,30 -10,50 0,30" fill="#FFFFFF" stroke="#BDC3C7" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="14" fill="#2C3E50">API design?</text>
+  </g>
+  
+  <!-- Speech bubble from Sam -->
+  <g transform="translate(650,180)">
+    <ellipse cx="0" cy="0" rx="90" ry="45" fill="#FFFFFF" stroke="#BDC3C7" stroke-width="2"/>
+    <polygon points="20,35 10,55 30,35" fill="#FFFFFF" stroke="#BDC3C7" stroke-width="2"/>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Simple &amp;</text>
+    <text x="0" y="10" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">intuitive!</text>
+  </g>
+  
+  <!-- Sticky notes on table -->
+  <g transform="translate(320,520)">
+    <rect x="0" y="0" width="40" height="40" fill="#F1C40F"/>
+    <text x="20" y="25" text-anchor="middle" font-family="Arial" font-size="10" fill="#2C3E50">MVP</text>
+  </g>
+  
+  <g transform="translate(370,530)">
+    <rect x="0" y="0" width="40" height="40" fill="#E74C3C"/>
+    <text x="20" y="15" text-anchor="middle" font-family="Arial" font-size="9" fill="#FFFFFF">2 weeks</text>
+    <text x="20" y="30" text-anchor="middle" font-family="Arial" font-size="9" fill="#FFFFFF">$100</text>
+  </g>
+  
+  <!-- Ambient lighting -->
+  <rect x="0" y="0" width="1200" height="800" fill="url(#ambientLight)" opacity="0.1"/>
+  
+  <defs>
+    <radialGradient id="ambientLight" cx="60%" cy="30%">
+      <stop offset="0%" style="stop-color:#F39C12;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#F39C12;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+</svg>
